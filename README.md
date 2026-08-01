@@ -1,2 +1,35 @@
 # Desktop-Modular-Air-purifier
-An open-source 3d printer modular air purifier, utilizing embedded magnets to secure pieces together. The aim of this project is to create a device which is easily made/repaired with spare parts.
+A personal project, open-source, modular desktop air purifier designed for makers and 3D printing environments. Built around readily available PC components and fully 3D-printable parts for easy assembly, maintenance, and repair.
+
+## Goals
+
+- Modular and repairable design
+- Uses off-the-shelf components
+- Minimal proprietary parts
+- Easy to print and assemble
+- Open-source and customizable
+
+# Features
+
+- Fully 3D-printable modular body
+- Raspberry Pi Pico W controller
+- Standard 120 mm PC case fan mounting (PWM and ARGB compatible)
+- Embedded magnet system for tool-free assembly and easy part replacement
+- Easily replaceable HEPA filter
+- Replaceable activated carbon pellet filter for VOC and odor reduction
+- Washable fabric pre-filter
+- Locally hosted MQTT server for fan speed and RGB control
+
+# Bill of Materials
+
+# Printing
+
+# Assembly
+
+# Wiring
+
+# Usage
+
+# Project Status
+
+This project is currently in active development; suggestions for future features and contributions are greatly appreciated
